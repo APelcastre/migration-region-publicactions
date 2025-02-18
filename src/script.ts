@@ -1,0 +1,1 @@
+console.log("Script TypeScript ejecutado con Node.js.");
